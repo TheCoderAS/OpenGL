@@ -1,0 +1,1 @@
+g++ create_shader.cpp -lGL -lGLU -lglfw3 -lGLEW -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl
