@@ -14,5 +14,3 @@
 #include<glm/gtc/type_ptr.hpp>
 
 #include<SOIL/SOIL.h>
-
-using namespace glm;
